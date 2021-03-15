@@ -14,3 +14,6 @@ Pour télécharger une ressource :
 3. Votre téléchargement commence.
 
 Dans certains cas, vous pouvez prévisualiser un fichier avant de le télécharger en cliquant sur le bouton **Prévisualiser** qui se trouve à côté du bouton **Télécharger**. Cette fonctionnalité n’est pas disponible pour tous les fichiers.
+
+
+expliquer aux gens comment dézipper votre archive, car même moi je n'y arrive pas
